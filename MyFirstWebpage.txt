@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Mariah's First Webpage</title>
+</head>
+
+<body bgcolor="#9e7335">
+  <h1>
+    <center>
+      <font color="#3e321a">~ Mariah Faye ~</font>
+    </center>
+  </h1>
+  <p>
+    <center><img src="MyPic.jpg" width="350px" height="380px" style="border:saddlebrown 10px outset" </center>
+  </p>
+  <h2>
+    <center>
+      <font color="#3e321a" style="font-size: 30px">~ My Favorites ~</font>
+    </center>
+  </h2>
+  <h3>
+    <center>
+      <font color="#3e321a" style="font-size: 25px">Sport:</font>
+    </center>
+  </h3><br>
+  <center><img src="Dance.jpg" width="400px" height="380px" style="border:saddlebrown 10px outset" </center>
+    <h3>
+      <center>
+        <font color="#3e321a" style="font-size: 25px">Color:</font>
+      </center>
+    </h3><br>
+    <center><img src="Color.jpg" width="400px" height:"380px" style="border: saddlebrown 10px outset" </center>
+      <h3>
+        <center>
+          <font color="#3e321a" style="font-size: 25px">Movie:</font>
+        </center>
+      </h3><br>
+      <center><img src="The Wiz.jpg" width="400px" height="380px" style="border: saddlebrown 10px outset"></center>
+      <h3>
+        <center>
+          <font color="#3e321a" style="font-size: 25px">Song:</font>
+        </center>
+      </h3><br>
+      <center><img src="Song.jpg" width="400px" height:"380px" style="border: saddlebrown 10px outset"></center>
+      <a href="https://youtu.be/gjRLbzxz_3Y?si=Rk1ZfBDemnCP5DY9">
+        <font color="#3e321a"><b>Click here to listen...</b></font>
+      </a><br>
+      <h2>
+        <center>
+          <font color="#3e321a" style="font-size: 30px">~ News Flash ~</font>
+        </center>
+      </h2>
+      <h3>
+        <center>
+          <font color="#3e321a" style="font-size: 25px">This is my first webpage :)</font>
+        </center>
+      </h3><br>
+      <h2>
+        <center>
+          <font color="#3e321a" style="font-size: 30px">~ Quote of the day ~</font>
+        </center>
+      </h2>
+      <h3>
+        <center>
+          <font color="#3e321a" style="font-size: 25px">"To be young, gifted, and black..."</font>
+        </center>
+      </h3><br>
+      <h2>
+        <center>
+          <font color="#3e321a">~ My Schedule ~</font>
+        </center>
+      </h2>
+      <table border="3" width=75% style="border: saddlebrown 10px outset">
+        <tr>
+          <td>
+            <font color="#3e321a"><b>Mon</b></font>
+          </td>
+          <td>
+            <font color="#3e321a"><b>Tues</b></font>
+          </td>
+          <td>
+            <font color="#3e321a"><b>Wed</b></font>
+          </td>
+          <td>
+            <font color="#3e321a"><b>Thurs</b></font>
+          </td>
+          <td>
+            <font color="#3e321a"><b>Fri</b></font>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <font color="#3e321a">Math @8am</font>
+          </td>
+          <td>
+            <font color="#3e321a">Math @8am</font>
+          </td>
+          <td>
+            <font color="#3e321a">Math @8am</font>
+          </td>
+          <td>
+            <font color="#3e321a">Math @8am</font>
+          </td>
+          <td>
+            <font color="#3e321a">Web Design @9am</font>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <font color="#3e321a">Web Design @9am</font>
+          </td>
+          <td>
+            <font color="#3e321a">Data Structures @3:30pm</font>
+          </td>
+          <td>
+            <font color="#3e321a">Web Design @9am</font>
+          </td>
+          <td>
+            <font color="#3e321a">Data Structures @3:30pm</font>
+          </td>
+          <td>
+            <font color="#3e321a">Technical Writing @10am</font>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <font color="#3e321a">Technical Writing @10am</font>
+          </td>
+          <td>
+            <font color="#3e321a">CDE Practice @5pm</font>
+          </td>
+          <td>
+            <font color="#3e321a">Technical Writing @10am</font>
+          </td>
+          <td>
+            <font color="#3e321a">CDE Practice @5pm</font>
+          </td>
+          <td>
+            <font color="#3e321a">Discrete Structures @11am</font>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <font color="#3e321a">Discrete Structures @11am</font>
+          </td>
+          <td>
+            <font color="#3e321a">...</font>
+          </td>
+          <td>
+            <font color="#3e321a">Discrete Structures @11am</font>
+          </td>
+          <td>
+            <font color="#3e321a">...</font>
+          </td>
+          <td>
+            <font color="#3e321a">CDE Practice @5pm</font>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <font color="#3e321a">CDE Practice @5pm</font>
+          </td>
+          <td>
+            <font color="#3e321a">...</font>
+          </td>
+          <td>
+            <font color="#3e321a">CDE Practice @5pm</font>
+          </td>
+          <td>
+            <font color="#3e321a">...</font>
+          <td>
+            <font color="#3e321a">...</font>
+          </td>
+        </tr></table>
+<h2><center><font color="#3e321a">~ My Organizations ~</font></center></h2>
+        <ul>
+          <li><font color="#3e321a">Classic Dance Ensemble (Apprentice and PR Team)</font></li>
+          <li><font color="#3e321a">The Influence (Founding Member)</font></li>
+          <li><font color="#3e321a">National Society of Black Engineers (Member)</font></li>
+        </ul>
+        </ul>
+  <h2><center><font color="#3e321a">~ Goals ~</font></center></h2>
+  <ol>
+    <li><font color="#3e321a">4.0 Semester</font></li>
+    <li><font color="#3e321a">recieving a summer internship</font></li>
+    <li><font color="#3e321a">create more coding projects</font></li>
+  </ol>
+</body> 
+  
+</html>
